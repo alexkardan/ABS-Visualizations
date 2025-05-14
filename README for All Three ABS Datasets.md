@@ -8,9 +8,9 @@ ABS provided datasets containing the **top 500 products by total quantity sold**
 The main objective is to determine appropriate **reorder point** and **safety stock** values for the top 500 best-selling products to enhance inventory planning and reduce the risk of stockouts.
 
 ## 🏬 Store Categories
-- **High Volume Store**: $6–8M in annual revenue, restocked **twice per week**
-- **Medium Volume Store**: $3–6M in annual revenue, restocked **once per week**
-- **Low Volume Store**: Under $3M in annual revenue, restocked **once per week**
+- **High Volume Store**: Over $8 in annual revenue, restocked **twice per week**
+- **Medium Volume Store**: $6-8M in annual revenue, restocked **once per week**
+- **Low Volume Store**: Under $6M in annual revenue, restocked **once per week**
 
 ## 📈 Reorder Point Calculation
 ABS’s formula for reorder point is:
